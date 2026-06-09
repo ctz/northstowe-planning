@@ -40,19 +40,27 @@ Quick reference to notable planning applications:
 
 - [Phase 2A (S/3499/19/RM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/S/3499/19/RM) - Urban Splash
 - [Phase 2B (21/02310/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/21/02310/REM) - Keepmoat
+- [Phase 2C (26/00786/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/26/00786/REM) - Keepmoat
+- [Phase 2D1 (25/04485/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/25/04485/REM) - Hill / Town cohousing / Suvana cohousing
 
 [Northstowe Town Centre Strategy](town-centre/S_2011_14_COND14-NORTHSTOWE_TC_STRATEGY_REV_A_30-5-2024-6451506.pdf) (June 2024)
+
+- ["Meanwhile" area (25/01182/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/25/01182/OUT)
 
 ## Phase 3A
 
 [**Outline planning permission** (20/02171/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/20/02171/OUT)
 
-## Phase 3B
+- [Primary roads (25/04840/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/25/04840/REM)
 
-[**Outline planning permission** (20/02142/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/20/02142/OUT)
+## Phase 3B and nearby
 
-- ["Digital Park" outline planning permission (S/3854/19/OL)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/S/3854/19/OL)
+[**3B Outline planning permission** (20/02142/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/20/02142/OUT)
 
-- ["Endurance Estates" outline planning permission (20/03598/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/20/03598/OUT)
+[**"Digital Park" outline planning permission** (S/3854/19/OL)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/S/3854/19/OL)
 
-  - ["Endurance Estates" (25/00887/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/25/00887/REM) - Bellway Homes
+[**"Endurance Estates" outline planning permission** (20/03598/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/20/03598/OUT)
+
+- ["Hatton Gate" (25/00887/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/25/00887/REM) - Bellway Homes
+
+[**Lidl** (26/00951/FUL)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/26/00951/FUL)
