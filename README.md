@@ -64,3 +64,11 @@ Quick reference to notable planning applications:
 - ["Hatton Gate" (25/00887/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/25/00887/REM) - Bellway Homes
 
 [**Lidl** (26/00951/FUL)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/26/00951/FUL)
+
+## Section 106 Agreements
+
+- [Phase 1](phase-1/s106/README.md) ([trigger summary](phase-1/s106/phase-1-s106-triggers.md))
+- [Phase 2](phase-2/phase-2-s106.md) ([trigger summary](phase-2/phase-2-s106-triggers.md))
+- [Phase 3a](phase-3a/phase-3a-s106.md) ([trigger summary](phase-3a/phase-3a-s106-triggers.md))
+- [Phase 3b](phase-3b/phase-3b-s106.md) ([trigger summary](phase-3b/phase-3b-s106-triggers.md))
+- [Bellway](phase-3b/bellway-s106.md) ([trigger summary](phase-3b/bellway-s106-triggers.md))
