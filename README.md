@@ -59,6 +59,8 @@ Quick reference to notable planning applications:
 
 [**"Digital Park" outline planning permission** (S/3854/19/OL)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/S/3854/19/OL)
 
+- [Reserved matters (26/02389/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/26/02389/REM)
+
 [**"Endurance Estates" outline planning permission** (20/03598/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/20/03598/OUT)
 
 - ["Hatton Gate" (25/00887/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/25/00887/REM) - Bellway Homes
@@ -72,3 +74,4 @@ Quick reference to notable planning applications:
 - [Phase 3a](phase-3a/phase-3a-s106.md) ([trigger summary](phase-3a/phase-3a-s106-triggers.md))
 - [Phase 3b](phase-3b/phase-3b-s106.md) ([trigger summary](phase-3b/phase-3b-s106-triggers.md))
 - [Bellway](phase-3b/bellway-s106.md) ([trigger summary](phase-3b/bellway-s106-triggers.md))
+- [Digital Park](phase-3b/digital-park-s106.md) ([trigger summary](phase-3b/digital-park-s106-triggers.md))
