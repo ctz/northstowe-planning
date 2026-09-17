@@ -46,6 +46,7 @@ Quick reference to notable planning applications:
 [Northstowe Town Centre Strategy](town-centre/S_2011_14_COND14-NORTHSTOWE_TC_STRATEGY_REV_A_30-5-2024-6451506.pdf) (June 2024)
 
 - ["Meanwhile" area (25/01182/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/25/01182/OUT)
+- ["Town Hub" (26/03221/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/26/03221/REM)
 
 ## Phase 3A
 
@@ -56,6 +57,9 @@ Quick reference to notable planning applications:
 ## Phase 3B and nearby
 
 [**3B Outline planning permission** (20/02142/OUT)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/20/02142/OUT)
+
+- [Roundabout works (26/02855/FUL)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/26/02855/FUL)
+- [Reserved matters 1 (26/03146/REM)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/26/03146/REM)
 
 [**"Digital Park" outline planning permission** (S/3854/19/OL)](https://applications.greatercambridgeplanning.org/online-applications/PLAN/S/3854/19/OL)
 
